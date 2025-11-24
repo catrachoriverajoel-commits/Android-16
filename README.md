@@ -40,7 +40,8 @@ Este repositório serve como um template para projetos Android. Ele utiliza a SD
 
    5. **Testes (`app/src/test/java/<pacote>/` e `app/src/androidTest/java/<pacote>/`):**
       - **Pacote:** As declarações de pacote nos arquivos de teste devem coincidir com o pacote do seu aplicativo.
-      - **Atualize os testes:** Adapte os testes de exemplo para refletir as mudanças na sua aplicação.
+      - **Atualize os testes:** Adapte o
+s testes de exemplo para refletir as mudanças na sua aplicação.
 
    6. **Tema da Interface do Usuário (`app/src/main/java/<pacote>/ui/theme/`):**
       - Personalize os arquivos de tema (cores, tipografia, formas) na pasta `ui/theme`.
